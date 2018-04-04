@@ -1,0 +1,16 @@
+body {
+  background-color: royalblue;
+}
+
+img {
+  display: block;
+  width: 100px;
+  height: 100px;
+}
+
+.photo-box {
+  width: 100px;
+  height: 100px;
+  background: url(../assets/img/quilt.jpg);
+  background-size: 100%;
+}
